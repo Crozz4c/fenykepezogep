@@ -28,3 +28,28 @@ h2 {
     color: #444;
     margin-top: 12px;
 }
+
+#jobboszlop {
+    background-color: #333;
+    color: white;
+}
+
+.keretes {
+    border: 6px solid black;
+    margin: 20px 0;
+}
+
+li {
+    line-height: 2em;
+}
+
+footer {
+    border-top: 2px dotted black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.fk {
+    font-weight: bold;
+} 
